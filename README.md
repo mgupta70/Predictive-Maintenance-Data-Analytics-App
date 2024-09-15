@@ -22,19 +22,19 @@ The app also contains detailed explanation and utility of each plot alongside a 
 
 #### D. Plot 4 -  Psuedo-Sensor Analysis (Hidden due to privacy concerns)
 
-<img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/micro/lock.png" >
+<img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/micro/lock_svg.svg" >
 
 #### E. Plot 5 -  Correlation Analysis 
 
-<img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/micro/plot_5.png" >
+<img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/micro/plot_5_svg.svg" >
 
 #### F. Plot 6 -  Heatmap  
 
-<img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/micro/plot_6.png" >
+<img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/micro/plot_6_svg.svg" >
 
 #### G. Case-study: Vibration Analysis in Hydro-Turbine  
 
-<img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/micro/vib_analysis.png" >
+<img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/micro/vib_analysis_svg.svg" >
 
 ** Many features in the app were not allowed to be shared publicly, hence are not included in the public version.**
 
