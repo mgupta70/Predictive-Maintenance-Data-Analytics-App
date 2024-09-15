@@ -14,11 +14,11 @@ The app also contains detailed explanation and utility of each plot alongside a 
 
 #### B. Plot 1 -  Streaming Data
 
-<img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/micro/plot_1.png" >
+<img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/micro/plot_1_svg.svg" >
 
 #### C. Plot 2 & 3 -  Capturing Year-on-Year & Month-on-Month Trend
 
-<img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/micro/plot_2_3.png" >
+<img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/micro/plot_2_3_svg.svg" >
 
 #### D. Plot 4 -  Psuedo-Sensor Analysis (Hidden due to privacy concerns)
 
