@@ -7,6 +7,7 @@ The app also contains detailed explanation and utility of each plot alongside a 
 *Note:* Dataset is proprietary, and hence not shared. Though, a small subset is shared for utility purpose. 
 *You are free to use the app or modify as needed...*
 
+**Many features in the app were not allowed to be shared publicly, hence are not included in the public version.**
 
 #### A. Overview of App
 
@@ -36,5 +37,5 @@ The app also contains detailed explanation and utility of each plot alongside a 
 
 <img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/micro/vib_analysis_svg.svg" >
 
-** Many features in the app were not allowed to be shared publicly, hence are not included in the public version.**
+
 
