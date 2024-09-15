@@ -10,7 +10,7 @@ The app also contains detailed explanation and utility of each plot alongside a 
 
 #### A. Overview of App
 
-<img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/micro/app_overview.png" >
+<img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/micro/app_overview_svg.svg" >
 
 #### B. Plot 1 -  Streaming Data
 
