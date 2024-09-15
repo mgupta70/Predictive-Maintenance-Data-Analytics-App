@@ -26,7 +26,7 @@ The app also contains detailed explanation and utility of each plot alongside a 
 
 #### E. Plot 5 -  Correlation Analysis 
 
-<img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/mini/plot_5.png" >
+<img src="https://github.com/mgupta70/Predictive-Maintenance-Data-Analytics-App/blob/main/media/micro/plot_5.png" >
 
 #### F. Plot 6 -  Heatmap  
 
